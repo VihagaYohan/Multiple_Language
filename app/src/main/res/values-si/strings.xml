@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multiple_Language</string>
+    <string name="hello">"හෙලෝ වර්ල්ඩ් "</string>
+    <string name="show_toast">"ටෝස්ට් පණිවිඩය පෙන්වන්න "</string>
+    <string name="toast">ටෝස්ට් පණිවිඩයක් පෙන්වන්න</string>
+</resources>
